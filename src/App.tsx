@@ -26,7 +26,14 @@ function App() {
         </p>
       </div>
       <p className="read-the-docs">
-        Click on the Vite and React logos to learn more
+        <a
+          className="text-blue-500"
+          href="http://beian.miit.gov.cn"
+          target="_blank"
+          rel="noreferrer"
+        >
+          浙ICP备19041676号-2
+        </a>
       </p>
     </>
   )
